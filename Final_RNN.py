@@ -11,8 +11,7 @@ Created on Sat Sep 17 19:39:20 2022
 @author: armen
 
 
-import pandas as pd
-import numpy as np
+
 import matplotlib.pyplot as plt
 from math import sqrt
 import plotly.express as px # to plot the time series plot
